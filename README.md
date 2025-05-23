@@ -70,7 +70,7 @@ GUI elements include `Entry`, `Label`, `Button`, and `Text`, designed for clarit
 
 ---
 
-## 💻 Sample GUI Code (Tkinter-based)
+## 💻 GUI Code (Tkinter-based)
 
 ```python
 import tkinter as tk
