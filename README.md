@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Smart Fitness Management System (SFMS)
+# 🏋️‍♂️ Tkinter GUI interface | Smart Fitness Management System (SFMS)
 
 A Python-based application built using Object-Oriented Programming (OOP) principles and enhanced with a **Tkinter GUI interface** to manage gym and fitness center operations. This version of SFMS offers both command-line and graphical interaction, designed to streamline user management, workout tracking, nutrition logging, and goal progress monitoring.
 
